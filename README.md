@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhomik27" alt="bhomik27" /></a> </p>
 
-- 🔭 I’m currently working on [Expense Tracker app](https://github.com/bhomik27/expense_tracker_Full_Stack)
+- 🔭 I’m currently working on Real Time Group Chat App https://github.com/bhomik27/Real-Time-Chat-App
 
 - 🌱 I’m currently learning **Nodejs, Express, MongoDB, React**
 
